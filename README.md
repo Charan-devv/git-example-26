@@ -1,8 +1,9 @@
-sample
-This is charan
-iehjjbdkhjeldj
-hello world
-this is new charan
-use # to create header 1
-_surround your text with underscores_
-*Stars are bold*
+# This is heading 1
+
+## This is heading 2
+
+
+_This is italic_
+
+**This is bold**
+
